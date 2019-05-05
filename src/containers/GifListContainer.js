@@ -6,7 +6,7 @@ import GifSearch from '../components/GifSearch'
 class GifListContainer extends Component {
 
   state = {
-    gifs = []
+    gifs: []
   }
 
   componentDidMount() {
